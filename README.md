@@ -72,6 +72,6 @@ License - see the LICENSE file for details.
 ## Contact
 For queries or feedback, contact:
 
-Your Name - labibanajmee09@gmail.com
+Email - labibanajmee09@gmail.com
 
 GitHub: https://github.com/Labiba786
